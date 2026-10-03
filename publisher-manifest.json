@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "7f6d6a62ba4faf2cf8a127e5",
+  "owner": "hhhgjpduk",
+  "repo": "page-b4721d05f1bf108bb0157982",
+  "title": "创客云(Maker)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b4721d05f1bf108bb0157982",
+      "a": "创客云(Maker)",
+      "b": "",
+      "entity": "创客云(Maker)",
+      "brand": "创客云(Maker)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "ff9b158b128215c6f5f3dd8dbbe37ea445c3b005f8ff8de0ba4a5f1527c8fd43",
+      "content": {
+        "keyword1": "创客云(Maker)",
+        "keyword2": "",
+        "primary_entity": "创客云(Maker)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "创客云(Maker)提供官方机场订阅与VPN梯子网络加速服务，支持多端客户端下载、流媒体解锁与游戏专线，覆盖基础版到团队版套餐，配置流程清晰可落地。",
+          "AI_DESCRIPTION": "创客云(Maker)提供官方机场订阅与VPN梯子网络加速服务，支持多端客户端下载、流媒体解锁与游戏专线，覆盖基础版到团队版套餐，配置流程清晰可落地。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html,body{margin:0;padding:0;overflow-x:hidden}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;background:#F5F2EB;color:#081C15;line-height:1.65;font-size:16px}a{color:#1B4332;text-decoration:none}a:hover{text-decoration:underline}header{background:#1B4332;color:#F5F2EB;padding:18px 16px}header .wrap,main .wrap,footer .wrap{max-width:960px;margin:0 auto}header h2{margin:0 0 8px;font-size:1.05rem;font-weight:600}nav{display:flex;flex-wrap:wrap;gap:10px 14px}nav a{color:#F5F2EB}main{padding:20px 16px 40px}.hero{margin-bottom:28px}.hero p{margin:10px 0 0;max-width:720px}h1{margin:0;font-size:1.85rem;line-height:1.3;color:#1B4332}h2{margin:28px 0 12px;font-size:1.35rem;color:#1B4332;border-bottom:2px solid #95D5B2;padding-bottom:6px}h3{margin:18px 0 8px;font-size:1.08rem;color:#1B4332}.cols{display:flex;flex-wrap:wrap;gap:16px}.col{flex:1 1 280px;background:#FFFcf7;border:1px solid #D8E2D4;padding:16px;border-radius:8px}.note{background:#E8F5E9;border-left:4px solid #2D6A4F;padding:12px 14px;margin:12px 0}.plans{display:flex;flex-wrap:wrap;gap:16px}.plan{flex:1 1 250px;background:#FFFcf7;border:1px solid #CDE3D4;padding:16px;border-radius:8px}.plan.featured{border:2px solid #2D6A4F;background:#F0F7F2}.price{font-size:1.25rem;font-weight:700;color:#1B4332;margin:8px 0}.muted{color:#3D5A4C;font-size:0.95rem}ol.steps{padding-left:20px}ol.steps li{margin:8px 0}details{background:#FFFcf7;border:1px solid #D8E2D4;border-radius:8px;padding:10px 14px;margin:10px 0}summary{cursor:pointer;font-weight:600;color:#1B4332}details p{margin:8px 0 4px}ul.clean{margin:8px 0;padding-left:20px}footer{background:#1B4332;color:#E8F5E9;padding:24px 16px}footer a{color:#B7E4C7}footer h3{color:#F5F2EB;margin:0 0 8px}.footgrid{display:flex;flex-wrap:wrap;gap:16px}.footcol{flex:1 1 220px}.adbox{background:#2D6A4F;padding:12px;border-radius:6px;margin-top:8px}@media(max-width:640px){h1{font-size:1.55rem}nav{font-size:0.95rem}}</style><header><div class=\"wrap\"><h2>创客云(Maker) 官网</h2><nav><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">配置流程</a><a href=\"#plans\">套餐方案</a><a href=\"#download\">官方下载</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">网站地图</a></nav></div></header><main><div class=\"wrap\"><section class=\"hero\" id=\"intro\"><h1>创客云(Maker)</h1><p>创客云(Maker)是面向独立开发者、远程团队与跨境创客的官方机场与 VPN 加速服务。我们提供可订阅的节点池、多端客户端导入方式，以及面向办公、流媒体和游戏的分流策略，帮助用户以更稳定的路径访问全球网络资源。本页为官方网站信息入口，集中说明套餐、配置流程与客户端下载要点。</p></section><section><h2>品牌定位与服务边界</h2><div class=\"cols\"><article class=\"col\"><h3>官方机场订阅</h3><p>创客云(Maker)以机场订阅为核心交付方式。用户开通后获取统一订阅地址，即可在 Clash 系、Shadowrocket、Stash 等客户端中更新节点。订阅侧重可用性与线路分层，而不是一次性配置文件分发。</p></article><article class=\"col\"><h3>VPN 梯子网络加速</h3><p>在需要固定出口或游戏加速时，可搭配规则模式将指定应用走 IPLC 或优化线路。服务定位是网络加速与访问稳定性，不替代本地安全策略，也不承诺突破任何依法限制的用途。</p></article></div><p class=\"note\">创客云(Maker)由官方站点发布套餐与配置说明。请仅通过本页指引获取客户端用法与订阅导入步骤，避免来路不明的配置源。</p></section><section id=\"scenes\"><h2>典型使用场景</h2><div class=\"cols\"><article class=\"col\"><h3>远程协作与代码访问</h3><p>适合需要稳定访问代码托管、设计协作与云文档的创客团队。普通线路覆盖日常网页与 API，旗舰与团队套餐可把关键域名指向更低抖动的节点。</p></article><article class=\"col\"><h3>流媒体与资料检索</h3><p>基础版解锁常见流媒体需求；旗舰版强调全节点原生解锁能力，便于内容创作与资料对照。学术检索、开源镜像与设计素材站也可按规则分流。</p></article><article class=\"col\"><h3>游戏与实时通讯</h3><p>旗舰版提供 IPLC 专线游戏加速优化，适合对延迟敏感的对战与语音场景。团队版则把高带宽节点与定制路由交给多设备同时在线的工作室。</p></article></div></section><section id=\"guide\"><h2>配置流程</h2><p>创客云(Maker)的上手路径刻意做成五步闭环：选套餐、拿订阅、下客户端、导入更新、按场景选节点。按顺序完成即可减少“连上却打不开”的排查时间。</p><ol class=\"steps\"><li>在套餐方案中确认流量、设备数与线路类型，优先按年付以降低月均成本。</li><li>开通后进入用户中心复制机场订阅链接，妥善保存，不要在公开群组转发。</li><li>根据系统下载兼容客户端：桌面端常用 Clash Verge / Clash Meta，iOS 常用 Shadowrocket 或 Stash，Android 常用 Clash Meta for Android。</li><li>在客户端粘贴订阅 URL，执行更新，等待节点列表刷新完成。</li><li>先测延迟再连接。办公走标准节点，流媒体选解锁标识节点，游戏切 IPLC 或游戏优化组，并开启规则模式避免全局浪费流量。</li></ol><h3>导入后的检查项</h3><ul class=\"clean\"><li>系统时间准确，证书与 TUN 模式按客户端说明开启。</li><li>更新失败时核对订阅是否过期、是否被空格污染。</li><li>同一账号请控制在套餐允许的在线设备数内，避免挤占会话。</li></ul></section><section id=\"plans\"><h2>套餐方案</h2><p>以下为创客云(Maker)当前可购方案。流量为每月极速额度，节点会随线路质量调整，官方身份以本站套餐说明为准。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"muted\">按年付仅需 ¥150/年</p><ul class=\"clean\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"muted\">按年付仅需 ¥350/年 · 推荐</p><ul class=\"clean\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"muted\">按年付仅需 ¥850/年</p><ul class=\"clean\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section><h2>节点与加速表现</h2><p>创客云(Maker)节点池按区域分层：香港与新加坡承担日常网页，东京与韩国补充东亚访问，洛杉矶与西雅图覆盖北美资料站，伦敦节点用于欧区协作。旗舰与团队用户可优先进入 IPLC 与高带宽组，办公场景常见延迟可控制在可交互范围，游戏组强调抖动而不是单纯带宽数字。</p><p>线路会进行可用性轮换。若某入口拥塞，客户端内切换同区域备用节点即可，无需重新下载配置。团队版支持按域名与 ASN 定制路由，把构建机、设计软件与会议工具拆到不同出口。</p></section><section id=\"download\"><h2>客户端下载与官网指引</h2><p>创客云(Maker)不绑定单一闭源壳客户端，而是兼容主流开源与商店应用，降低设备更换成本。请从系统官方商店或开发者发布页获取正版客户端，再回到本站完成订阅导入。所谓官网下载，指的是下载“可用的客户端程序 + 正确的订阅用法”，而不是来路不明的改装包。</p><div class=\"cols\"><article class=\"col\"><h3>桌面端</h3><p>Windows 与 macOS 建议 Clash Verge 或 Clash Meta。导入订阅后开启系统代理或 TUN，浏览器与终端即可按规则分流。开发者可将包管理器与容器拉取加入直连列表。</p></article><article class=\"col\"><h3>移动端</h3><p>iOS 使用 Shadowrocket 或 Stash；Android 使用 Clash Meta for Android。首次连接请在受信任网络下完成订阅更新，再切换到日常网络验证解锁节点。</p></article></div><p><a href=\"#guide\">返回配置流程</a> · <a href=\"#faq\">查看导入常见问题</a> · <a href=\"#plans\">对比套餐后再开通</a></p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>创客云(Maker)如何完成官方客户端下载？</summary><p>按设备选择 Clash 系、Shadowrocket 或 Stash 等兼容应用，从系统商店或开发者站点安装。安装后不要寻找所谓破解节点，回到本页配置流程复制机场订阅并更新即可。</p></details><details><summary>机场订阅链接应该怎样导入才稳定？</summary><p>在客户端选择订阅或 URL 导入，完整粘贴一次性复制的地址，避免换行和空格。导入后立刻更新，确认节点数量与到期时间显示正常，再测延迟连接。</p></details><details><summary>基础版、旗舰版和团队版该怎么选？</summary><p>个人轻度办公与基础流媒体选基础版；需要原生解锁、游戏 IPLC 与优先工单选旗舰版；工作室多设备、高流量与定制路由选团队版。设备数与月流量是硬约束，先按并发人数估算。</p></details><details><summary>多设备同时在线会不会互相抢速？</summary><p>套餐标明了同时在线台数。在限额内一般按会话分配，不会额外限速；超出后可能挤占或无法登录新设备。团队场景建议把构建任务与浏览流量分账号或升级团队版。</p></details><details><summary>节点连上但流媒体仍未解锁怎么办？</summary><p>先切换带解锁标识的节点，关闭浏览器代理插件冲突，清理站点 cookies。旗舰版强调全节点原生解锁，若仍失败，通过工单提供地区与应用名称以便调整分流。</p></details><details><summary>创客云(Maker)是否提供游戏加速？</summary><p>旗舰版包含 IPLC 专线游戏加速优化，适合对延迟敏感的对战。请在客户端将游戏进程或端口走游戏组，语音与下载可分开规则，以免下载占满专线。</p></details></section><section id=\"sitemap\"><h2>页面地图</h2><p><a href=\"#intro\">品牌简介</a> · <a href=\"#scenes\">使用场景</a> · <a href=\"#guide\">配置流程</a> · <a href=\"#plans\">套餐方案</a> · <a href=\"#download\">官方下载</a> · <a href=\"#faq\">常见问题</a></p></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><div class=\"footgrid\"><div class=\"footcol\"><h3>官方信息</h3><p>创客云(Maker)官方网站提供机场订阅、VPN 梯子网络加速与客户端下载说明。Canonical 地址为 https://www.chuangkeyun.com/</p></div><div class=\"footcol\"><h3>友情链接</h3><p><a href=\"#\">创客协作手册</a> · <a href=\"#\">远程办公清单</a> · <a href=\"#\">开源客户端文档</a> · <a href=\"#\">节点测速备忘</a></p></div><div class=\"footcol\"><h3>合作广告</h3><div class=\"adbox\">广告位：跨境协作工具与云主机方案展示，欢迎通过官网合作渠道洽谈，不插入跳转脚本。</div></div></div></div></footer>",
+          "hash": "fa3142af20842703af08b049479d09cec435e60fda5f7eebfaaf01624df0e6a9",
+          "seo": {
+            "title": "创客云(Maker) 官方网站 - VPN加速器与机场订阅客户端下载",
+            "keywords": "创客云,Maker,创客云VPN,创客云机场,梯子网络加速,加速器,客户端下载,官网下载,机场订阅,IPLC节点",
+            "description": "创客云(Maker)提供官方机场订阅与VPN梯子网络加速服务，支持多端客户端下载、流媒体解锁与游戏专线，覆盖基础版到团队版套餐，配置流程清晰可落地。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "suodebao.cn",
+    "host": "p-f696d5ae45.suodebao.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "suodebao.cn",
+      "url": "https://suodebao.cn/",
+      "label": "苏打(Suda)",
+      "apex": "suodebao.cn",
+      "kind": null,
+      "identity": "pupnjnqu/page-4fad4b52bfdcab41d5b5178a"
+    },
+    {
+      "host": "5z2fmc.cn",
+      "url": "https://5z2fmc.cn/",
+      "label": "创客云(Maker)",
+      "apex": "5z2fmc.cn",
+      "kind": null,
+      "identity": "cracnqq/page-996dc700faa5eb8665fc7881"
+    },
+    {
+      "host": "flowercloudx.com",
+      "url": "https://flowercloudx.com/",
+      "label": "创客云(Maker)",
+      "apex": "flowercloudx.com",
+      "kind": null,
+      "identity": "kbxmsy/page-0fbf899dcf29ecbc2f822167"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "db9d3379487e2b08744c5d48b41bb2d5eaf6990f41fda3051e89b73b7840a7f3",
+    "sitemap.xml": "c7bde4c7cb7d99f2a6f4a83a9d1e76fd62acb60dcca5fc19ab56a001da07b66d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f26ca0ac2b9fc4c6678153d164499bf2fbc074429be4a8c1873d11f82220d51c",
+    "robots.txt": "b32d2543af6dc816e4a8c02729a76a81ea53b0a11bec86c3fbc5a93621b1167a",
+    "4fa2f47d562605a87c9e3c8fd37b5ca4.txt": "3f75a4a3dc4216f1c8f966df57484b1b82caeba99922b5362206b87e4ab18a55"
+  },
+  "revision": "e053b52c989503bed8303983b37591504396a8884bf235118b539d1648e8789f"
+}
